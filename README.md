@@ -129,7 +129,7 @@ funded through the National/EU call "Open Innovation in Culture". You can check 
 ### Bessarion project seminar
 
 You can watch the seminar that was held in Arta, Greece, discussing the work carried out for the research project "Bessarion"
-[here](https://www.youtube.com/watch?v=YqOKRVbDDfs).
+[here](https://www.youtube.com/watch?v=YqOKRVbDDfs). (In Greek)
 
 ### Paper citation
 
