@@ -76,7 +76,7 @@ From left to right: Line-level, word-level, character-level annotation.
 <p align="center"> 
 <img src="figs/text_htr.png" width=90% height=90%> <br>
 Example text lines with the ground truth recognition label (Original) 
-    and the HTR model one as (Predicted). A WER of $6.1\%$ is achieved using the HTR model of <a href="https://www.cs.uoi.gr/~sfikas/DAS2022-Retsinas-BestpracticesHTR.pdf">[Retsinas et al. 2022]</a>. 
+    and the HTR model one as (Predicted). A WER of $6.1\%$ is achieved using the HTR model of <a href="https://www.cs.uoi.gr/~sfikas/DAS2022-Retsinas-BestpracticesHTR.pdf">[Retsinas et al., International Workshop on Document Analysis Systems (DAS) 2022]</a>. 
 </p>
  <br>
 
