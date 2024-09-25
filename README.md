@@ -33,7 +33,7 @@ there are a total of 504 outlined textlines,
 <p align="center"> 
 <img src="figs/bessarion_map_37_withoutnames_correct.png" width=90% height=90%> <br>
 Map showing positions of the sites relevant to Bessarion data.
-Our dataset comes from a total of 37 sites spanning the region of <a href="https://en.wikipedia.org/wiki/Epirus">Epirus</a>, situated in North-Western <a href="https://en.wikipedia.org/wiki/Greece">Greece</a>.
+Our dataset comes from a total of 37 locations spanning the region of <a href="https://en.wikipedia.org/wiki/Epirus">Epirus</a>, situated in North-Western <a href="https://en.wikipedia.org/wiki/Greece">Greece</a>.
 </p>
 <br>
 
