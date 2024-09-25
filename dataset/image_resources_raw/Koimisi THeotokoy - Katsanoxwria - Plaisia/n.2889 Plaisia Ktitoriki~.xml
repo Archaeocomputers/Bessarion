@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-09-28T17:45:40</Created>
+	<LastChange>2020-09-28T18:04:20</LastChange></Metadata>
+	<Page imageFilename="n.2889 Plaisia Ktitoriki.jpg" imageWidth="4128" imageHeight="2322">
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="3066,610 743,393 546,1496 3313,1653 3246,1403 3376,1293"/></TextRegion>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<TextLine id="tempLine357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<Word id="tempWord357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<Glyph id="r2">
+	<Coords points="888,480 817,479 801,583 870,583"/></Glyph>
+	<Glyph id="r3">
+	<Coords points="1098,505 911,485 868,597 997,598 1017,543 1067,544"/></Glyph>
+	<Glyph id="r4">
+	<Coords points="1064,552 1014,555 1005,601 1053,608"/></Glyph>
+	<Glyph id="r5">
+	<Coords points="1125,550 1070,547 1067,601 1098,614"/></Glyph>
+	<Glyph id="r6">
+	<Coords points="1180,556 1131,554 1102,608 1160,615"/></Glyph>
+	<Glyph id="r7">
+	<Coords points="1219,567 1187,561 1163,614 1209,615"/></Glyph>
+	<Glyph id="r8">
+	<Coords points="1274,572 1221,567 1214,623 1277,627"/></Glyph>
+	<Glyph id="r9">
+	<Coords points="1338,573 1280,576 1288,625 1328,626 1345,582"/></Glyph>
+	<Glyph id="r10">
+	<Coords points="1377,580 1345,583 1331,629 1371,631"/></Glyph>
+	<Glyph id="r11">
+	<Coords points="1415,582 1380,584 1374,633 1418,632"/></Glyph>
+	<Glyph id="r12">
+	<Coords points="1540,565 1490,563 1489,643 1524,648"/></Glyph>
+	<Glyph id="r13">
+	<Coords points="2525,625 2439,629 2458,728 2523,721"/></Glyph>
+	<Glyph id="r14">
+	<Coords points="2790,702 2731,695 2730,746 2784,750"/></Glyph>
+	<Glyph id="r16">
+	<Coords points="1292,669 1248,669 1240,711 1301,776 1331,742 1290,720 1301,673"/></Glyph>
+	<Glyph id="r17">
+	<Coords points="2797,791 2755,784 2751,847 2802,840"/></Glyph>
+	<Glyph id="r18">
+	<Coords points="2849,758 2787,763 2800,794 2811,855 2851,848 2836,795"/></Glyph>
+	<Glyph id="r19">
+	<Coords points="2968,794 2914,797 2930,832 2934,853 2974,858"/></Glyph>
+	<Glyph id="r20">
+	<Coords points="1524,772 1445,771 1409,814 1367,813 1366,840 1487,851 1503,809 1525,801 1533,775"/></Glyph>
+	<Glyph id="r21">
+	<Coords points="1970,824 1922,823 1917,853 1962,921 1987,909 1970,858 1968,837"/></Glyph>
+	<Glyph id="r22">
+	<Coords points="1248,978 1205,978 1185,1052 1230,1048"/></Glyph>
+	<Glyph id="r23">
+	<Coords points="1287,1003 1243,993 1235,1044 1284,1045"/></Glyph>
+	<Glyph id="r24">
+	<Coords points="1627,986 1568,983 1582,1031 1549,1083 1612,1093 1614,1037"/></Glyph></Word></TextLine></TextRegion></Page></PcGts>

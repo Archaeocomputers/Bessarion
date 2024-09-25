@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2021-01-26T10:23:01</Created>
+	<LastChange>2021-01-26T10:23:01</LastChange></Metadata>
+	<Page imageFilename="20150315_125942.jpg" imageWidth="4128" imageHeight="2322">
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<TextLine id="tempLine357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<Word id="tempWord357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<Glyph id="r2">
+	<Coords points="2005,694 1992,737 2024,771 1968,842 1984,855 2049,799 2116,836 2139,842 2140,824 2060,776 2085,727 2086,722 2075,684 2042,675 2039,675 2011,688 2004,695"/></Glyph>
+	<Glyph id="r3">
+	<Coords points="2130,680 2137,792 2158,790 2160,721 2214,719 2204,669 2179,664 2145,674 2131,676"/></Glyph>
+	<Glyph id="r4">
+	<Coords points="2250,662 2253,780 2287,787 2318,780 2330,749 2307,737 2277,728 2288,706 2312,694 2325,660 2295,648 2254,658"/></Glyph></Word></TextLine></TextRegion>
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1937,664 1959,864 2375,794 2333,622 1940,666"/></TextRegion></Page></PcGts>

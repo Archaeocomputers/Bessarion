@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2021-07-17T15:39:17</Created>
+	<LastChange>2021-07-17T15:39:17</LastChange></Metadata>
+	<Page imageFilename="320_NAOS TAKSIARXWN K. PEDINA.tiff" imageWidth="2048" imageHeight="1536">
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<TextLine id="tempLine357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<Word id="r1">
+	<Coords points="323,1017 321,1032 318,1048 318,1061 324,1070 337,1069 376,1069 392,1070 416,1070 427,1071 437,1073 449,1073 460,1075 472,1077 483,1078 534,1078 545,1077 556,1077 568,1078 578,1080 589,1081 599,1082 606,1074 607,1063 607,1041 606,1031 605,1021 587,1019 521,1019 508,1018 495,1017 483,1016 473,1015 458,1014 429,1014 414,1013 388,1013 374,1012 335,1012 324,1013"/>
+	<TextEquiv>
+	<Unicode>ΑΝΗΣΤΟΡΙΘΕΙ</Unicode></TextEquiv></Word></TextLine></TextRegion></Page></PcGts>

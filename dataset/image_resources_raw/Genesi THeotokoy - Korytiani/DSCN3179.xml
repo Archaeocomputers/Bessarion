@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2021-01-26T11:38:19</Created>
+	<LastChange>2021-07-08T16:13:23</LastChange></Metadata>
+	<Page imageFilename="DSCN3179.JPG" imageWidth="4608" imageHeight="3456">
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="504,936 527,1913 4607,1868 4600,1859 4581,686 486,881 495,986"/>
+	<TextLine id="r2">
+	<Coords points="581,936 572,1304 4572,1218 4536,700 1190,868 577,918"/></TextLine>
+	<TextLine id="r3">
+	<Coords points="609,1395 577,1900 4550,1781 4595,1786 4572,1286 1109,1309 581,1331 613,1381"/></TextLine></TextRegion>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<TextLine id="tempLine357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<Word id="tempWord357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<Glyph id="r4">
+	<Coords points="3037,841 3031,944 2951,989 2924,1048 2951,1086 3037,1100 3055,1241 3151,1203 3131,810 3034,810 3034,848"/>
+	<TextEquiv>
+	<Unicode>A</Unicode></TextEquiv></Glyph>
+	<Glyph id="r5">
+	<Coords points="3203,851 3210,868 3200,1231 3300,1213 3303,941 3437,1227 3482,1213 3468,820 3403,841 3413,1068 3289,813 3206,851"/></Glyph>
+	<Glyph id="r6">
+	<Coords points="3620,958 3706,951 3675,917 3596,858 3527,893 3506,1103 3555,1227 3627,1234 3689,1148 3696,1093 3672,1072 3610,1103 3582,1113 3582,1196 3544,1058 3665,1048 3665,1024 3555,989 3568,906 3613,896 3627,934 3606,951 3606,979 3637,965"/>
+	<TextEquiv>
+	<Unicode>Ε</Unicode></TextEquiv></Glyph>
+	<Glyph id="r7">
+	<Coords points="3758,875 3789,1210 3868,1203 3875,1100 3917,1203 3993,1213 3934,1051 3879,1000 3941,903 3972,848 3924,841 3837,944 3844,834 3755,875"/>
+	<TextEquiv>
+	<Unicode>Κ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r8">
+	<Coords points="4010,848 4058,1217 4131,1172 4072,817 4010,817 4017,855"/></Glyph>
+	<Glyph id="r10">
+	<Coords points="4158,841 4210,1206 4268,1182 4255,958 4365,1193 4431,1162 4375,796 4334,817 4317,975 4306,962 4234,813 4148,848"/>
+	<TextEquiv>
+	<Unicode>Ν</Unicode></TextEquiv></Glyph>
+	<Glyph id="r11">
+	<Coords points="4406,803 4482,1175 4562,1151 4496,841 4517,768 4410,800"/></Glyph>
+	<Glyph id="r12">
+	<Coords points="3668,1413 3668,1451 3679,1768 3737,1758 3731,1582 3786,1596 3796,1762 3865,1737 3865,1734 3851,1582 3927,1758 3993,1755 3968,1382 3906,1406 3903,1596 3848,1382 3772,1393 3775,1524 3737,1527 3720,1393 3665,1403 3672,1437"/>
+	<TextEquiv>
+	<Unicode>ΗΝ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r13">
+	<Coords points="4131,1389 4103,1396 4037,1510 4017,1634 3989,1641 3989,1668 4024,1662 4024,1779 4086,1758 4100,1675 4124,1762 4189,1741 4179,1713 4175,1672 4217,1644 4213,1620 4175,1606 4148,1389 4120,1389"/></Glyph>
+	<Glyph id="r14">
+	<Coords points="4220,1417 4231,1748 4303,1706 4289,1510 4355,1496 4348,1437 4348,1379 4220,1393"/>
+	<TextEquiv>
+	<Unicode>Γ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r15">
+	<Coords points="4379,1403 4341,1617 4368,1737 4458,1765 4489,1727 4465,1486 4431,1393 4400,1375 4379,1396"/></Glyph>
+	<Glyph id="r16">
+	<Coords points="3396,1410 3393,1431 3403,1520 3331,1548 3310,1600 3327,1658 3327,1662 3344,1675 3382,1668 3400,1658 3403,1665 3427,1782 3472,1741 3451,1410 3400,1417"/></Glyph>
+	<Glyph id="r17">
+	<Coords points="3651,1513 3648,1489 3617,1475 3620,1427 3555,1400 3503,1468 3489,1572 3482,1713 3510,1775 3589,1758 3613,1717 3613,1703 3651,1703 3641,1658 3624,1651 3579,1662 3541,1689 3537,1689 3541,1562 3541,1458 3572,1448 3593,1468 3568,1489 3568,1513"/></Glyph></Word></TextLine></TextRegion></Page></PcGts>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2021-01-29T20:03:17</Created>
+	<LastChange>2021-01-29T20:03:17</LastChange></Metadata>
+	<Page imageFilename="" imageWidth="4608" imageHeight="3456">
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="886,254 4077,354 4086,377 4163,1836 672,1763"/>
+	<TextLine id="r2">
+	<Coords points="1031,381 3918,527 3918,540 3800,1031 1054,922"/></TextLine>
+	<TextLine id="r3">
+	<Coords points="3345,1122 4045,1140 4045,1154 4000,1477 3390,1486"/></TextLine></TextRegion>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<TextLine id="tempLine357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<Word id="tempWord357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<Glyph id="r4">
+	<Coords points="1280,657 1439,680 1440,692 1419,842 1246,831"/></Glyph>
+	<Glyph id="r5">
+	<Coords points="1466,642 1625,675 1542,859 1446,843 1454,689"/></Glyph>
+	<Glyph id="r6">
+	<Coords points="1550,512 1706,525 1648,659 1551,646 1510,550"/></Glyph>
+	<Glyph id="r7">
+	<Coords points="1656,669 1665,674 1762,686 1724,900 1556,878 1621,686"/></Glyph>
+	<Glyph id="r8">
+	<Coords points="1830,659 1913,668 1953,750 1900,814 1798,800 1797,727"/></Glyph>
+	<Glyph id="r9">
+	<Coords points="2010,616 2112,612 2114,612 2100,816 1997,813 1963,706"/></Glyph>
+	<Glyph id="r10">
+	<Coords points="3112,679 3259,689 3254,880 3095,856"/></Glyph>
+	<Glyph id="r11">
+	<Coords points="3468,1213 3619,1231 3622,1239 3612,1362 3612,1365 3492,1354"/></Glyph>
+	<Glyph id="r12">
+	<Coords points="3745,1233 3954,1239 3956,1244 3924,1399 3923,1399 3757,1371"/></Glyph></Word></TextLine></TextRegion></Page></PcGts>

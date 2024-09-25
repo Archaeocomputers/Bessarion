@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2021-01-26T11:22:31</Created>
+	<LastChange>2021-01-26T11:22:31</LastChange></Metadata>
+	<Page imageFilename="20150315_130345.jpg" imageWidth="4128" imageHeight="2322">
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="87,896 19,1251 1109,1287 3090,1264 4127,1235 4127,1219 4125,880 2364,880 461,841 93,893"/></TextRegion>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<TextLine id="tempLine357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<Word id="r2">
+	<Coords points="979,874 959,1027 1724,1037 1725,885 985,866"/></Word>
+	<Word id="r3">
+	<Coords points="1725,901 1727,1037 1783,1027 1783,898 1725,898"/></Word>
+	<Word id="r4">
+	<Coords points="1787,898 1788,1033 2059,1037 2064,911 1783,901"/></Word>
+	<Word id="r5">
+	<Coords points="2081,916 2096,1042 2298,1042 2287,901 2077,911"/></Word>
+	<Word id="r8">
+	<Coords points="2459,1079 2459,1096 2462,1203 2583,1205 2583,1066 2451,1083"/></Word>
+	<Word id="r9">
+	<Coords points="2594,1061 2605,1216 3044,1205 3012,1061 2587,1062"/></Word>
+	<Word id="r10">
+	<Coords points="3022,1066 3050,1209 3296,1205 3261,1061 3029,1064"/></Word></TextLine></TextRegion></Page></PcGts>

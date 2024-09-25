@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2021-01-29T20:12:00</Created>
+	<LastChange>2021-01-29T20:33:09</LastChange></Metadata>
+	<Page imageFilename="DSCN3239.JPG" imageWidth="4608" imageHeight="3456">
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="582,382 4186,565 4517,1526 4521,1547 4526,1565 4482,2373 204,2195"/>
+	<TextLine id="r2">
+	<Coords points="752,482 4134,756 3926,1521 617,1286"/></TextLine>
+	<TextLine id="r3">
+	<Coords points="443,1426 4291,1600 4443,1826 4360,2082 317,1956 404,1547"/></TextLine></TextRegion>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<TextLine id="tempLine357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<Word id="tempWord357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<Glyph id="r4">
+	<Coords points="824,867 972,872 1001,1034 972,1155 744,1141"/></Glyph>
+	<Glyph id="r5">
+	<Coords points="1041,815 1288,852 1180,982 1142,1160 1032,1160 1014,911"/></Glyph>
+	<Glyph id="r6">
+	<Coords points="1151,618 1422,631 1335,831 1207,827 1145,708"/></Glyph>
+	<Glyph id="r7">
+	<Coords points="1324,858 1507,861 1475,1192 1195,1188 1288,900"/></Glyph>
+	<Glyph id="r8">
+	<Coords points="1607,835 1775,848 1757,1051 1558,1051 1555,915"/></Glyph>
+	<Glyph id="r9">
+	<Coords points="1852,740 1864,742 2015,758 2041,1041 2041,1047 1815,1088 1785,851"/></Glyph>
+	<Glyph id="r10">
+	<Coords points="3600,862 3790,868 3768,1144 3766,1146 3484,1152 3520,930"/></Glyph>
+	<Glyph id="r11">
+	<Coords points="432,1569 518,1575 521,1589 500,1864 380,1864 398,1609"/></Glyph>
+	<Glyph id="r12">
+	<Coords points="749,1567 1009,1595 896,1861 713,1695"/></Glyph>
+	<Glyph id="r13">
+	<Coords points="4073,1676 4280,1681 4281,1684 4266,1870 4263,1875 4066,1815"/></Glyph></Word></TextLine></TextRegion></Page></PcGts>

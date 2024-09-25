@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2021-01-26T11:18:23</Created>
+	<LastChange>2021-01-26T11:18:23</LastChange></Metadata>
+	<Page imageFilename="Osteofylakio Koritiani.JPG" imageWidth="4608" imageHeight="3456">
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<TextLine id="tempLine357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<Word id="tempWord357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<Glyph id="r3">
+	<Coords points="791,1033 608,1333 608,1341 666,1541 775,1591 325,1975 325,1983 258,2108 366,2083 933,1750 1250,2000 1275,2208 1408,2116 1475,1858 991,1525 1266,1191 1266,941 983,925 775,1041"/></Glyph>
+	<Glyph id="r4">
+	<Coords points="1641,866 1666,908 1700,941"/></Glyph>
+	<Glyph id="r5">
+	<Coords points="1691,850 1683,900 1575,1725 1691,1708 1891,1191 2225,1150 2250,800 2041,733 1683,858"/></Glyph>
+	<Glyph id="r6">
+	<Coords points="2508,775 2483,1516 2858,1533 2875,1533 3041,1358 3008,1175 2758,1141 2858,991 3050,808 2983,591 2550,650 2500,783"/></Glyph></Word></TextLine></TextRegion>
+	<TextRegion id="r2" type="paragraph">
+	<Coords points="383,733 250,2333 3533,2058 3191,533 383,708"/></TextRegion></Page></PcGts>

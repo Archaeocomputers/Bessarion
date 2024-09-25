@@ -1,0 +1,519 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2020-12-12T14:04:52</Created>
+	<LastChange>2021-05-23T19:51:39</LastChange></Metadata>
+	<Page imageFilename="" imageWidth="1600" imageHeight="1200">
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<TextLine id="tempLine357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<Word id="tempWord357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<Glyph id="r173">
+	<Coords points="388,280 308,278 308,368 388,372"/>
+	<TextEquiv>
+	<Unicode>Η</Unicode></TextEquiv></Glyph>
+	<Glyph id="r174">
+	<Coords points="419,283 440,283 463,278 464,278 464,288 449,294 448,368 409,367 410,322 410,280"/>
+	<TextEquiv>
+	<Unicode>Γ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r175">
+	<Coords points="423,282 434,283 471,273 471,294 456,294 456,370 484,371 486,309 500,302 502,275 493,263 407,261 407,277"/>
+	<TextEquiv>
+	<Unicode>ΕΡ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r177">
+	<Coords points="521,317 521,364 512,369 500,368 492,362 493,317"/>
+	<TextEquiv>
+	<Unicode>Η</Unicode></TextEquiv></Glyph>
+	<Glyph id="r181">
+	<Coords points="587,283 606,283 606,381 587,381"/>
+	<TextEquiv>
+	<Unicode>Ι</Unicode></TextEquiv></Glyph>
+	<Glyph id="r182">
+	<Coords points="522,369 525,360 526,288 577,289 577,303 576,339 585,349 586,350 586,369 587,369 587,380 522,379"/>
+	<TextEquiv>
+	<Unicode>Κ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r187">
+	<Coords points="651,384 618,383 619,343 619,298 651,298"/>
+	<TextEquiv>
+	<Unicode>Ι</Unicode></TextEquiv></Glyph>
+	<Glyph id="r189">
+	<Coords points="711,316 700,316 700,385 654,384 654,305 711,306"/>
+	<TextEquiv>
+	<Unicode>ΣΤ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r191">
+	<Coords points="744,367 745,352 745,333 737,317 716,316 704,331 704,359 715,388 733,389 744,368"/>
+	<TextEquiv>
+	<Unicode>Ο</Unicode></TextEquiv></Glyph>
+	<Glyph id="r192">
+	<Coords points="773,345 793,345 792,389 773,388"/>
+	<TextEquiv>
+	<Unicode>Ι</Unicode></TextEquiv></Glyph>
+	<Glyph id="r194">
+	<Coords points="786,344 794,337 796,335 796,312 770,311 747,311 747,378 743,378 743,388 767,389 769,389 769,344"/>
+	<TextEquiv>
+	<Unicode>Ρ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r201">
+	<Coords points="848,338 838,313 812,313 805,328 806,365 816,391 842,392 848,392"/>
+	<TextEquiv>
+	<Unicode>Θ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r202">
+	<Coords points="844,319 850,339 850,388 902,389 902,313 844,313"/>
+	<TextEquiv>
+	<Unicode>Η</Unicode></TextEquiv></Glyph>
+	<Glyph id="r208">
+	<Coords points="972,315 994,316 1003,330 1003,394 996,401 967,400 958,387 958,321"/>
+	<TextEquiv>
+	<Unicode>Ο</Unicode></TextEquiv></Glyph>
+	<Glyph id="r218">
+	<Coords points="1051,348 1051,363 1058,375 1072,375 1072,400 1093,402 1093,387 1084,369 1084,356 1085,325 1058,324 1058,336"/>
+	<TextEquiv>
+	<Unicode>ΕΙ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r220">
+	<Coords points="1050,325 1049,355 1049,359 1056,377 1055,403 1015,401 1015,379 1010,365 1011,333 1016,319 1050,320"/>
+	<TextEquiv>
+	<Unicode>Θ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r221">
+	<Coords points="1160,391 1125,390 1103,389 1096,376 1096,321 1160,321"/>
+	<TextEquiv>
+	<Unicode>ΟΣ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r225">
+	<Coords points="1286,338 1280,346 1280,406 1228,406 1201,405 1201,354 1193,349 1193,327 1218,328 1286,328"/>
+	<TextEquiv>
+	<Unicode>ΟΥ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r228">
+	<Coords points="1326,371 1321,367 1321,352 1286,352 1286,343 1290,334 1355,334 1355,320 1368,320 1374,312 1399,312 1399,326 1371,347 1340,347 1340,367 1336,372 1327,372"/>
+	<TextEquiv>
+	<Unicode>Τ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r230">
+	<Coords points="1342,367 1338,372 1337,373 1328,373 1322,369 1320,367 1285,367 1285,408 1299,409 1317,410 1346,411 1365,411 1374,404 1374,375 1363,371 1351,366 1342,366"/>
+	<TextEquiv>
+	<Unicode>Ο</Unicode></TextEquiv></Glyph>
+	<Glyph id="r231">
+	<Coords points="1414,415 1422,407 1422,354 1412,344 1385,344 1376,355 1376,415"/>
+	<TextEquiv>
+	<Unicode>Σ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r238">
+	<Coords points="1476,386 1476,338 1428,338 1428,395 1431,409 1431,422 1488,422 1488,409"/>
+	<TextEquiv>
+	<Unicode>Κ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r239">
+	<Coords points="1489,406 1489,422 1500,422 1500,339 1485,339 1485,400"/>
+	<TextEquiv>
+	<Unicode>Ι</Unicode></TextEquiv></Glyph>
+	<Glyph id="r240">
+	<Coords points="1553,340 1506,339 1503,339 1503,402 1509,421 1594,421 1594,340"/>
+	<TextEquiv>
+	<Unicode>Π</Unicode></TextEquiv></Glyph>
+	<Glyph id="r245">
+	<Coords points="258,440 265,465 264,498 264,513 256,525 216,523 216,497 217,468 218,442 218,440"/>
+	<TextEquiv>
+	<Unicode>Θ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r246">
+	<Coords points="267,437 266,450 266,453 270,459 270,486 269,526 340,526 340,500 318,476 318,463 326,451 327,436 267,436"/>
+	<TextEquiv>
+	<Unicode>Κ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r247">
+	<Coords points="352,512 344,500 344,454 329,454 329,438 428,438 427,451 421,460 420,462 420,514 353,514"/>
+	<TextEquiv>
+	<Unicode>ΟΥ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r251">
+	<Coords points="562,523 562,534 462,534 463,512 463,501 476,501 476,458 485,448 510,448 510,436 546,436 546,472"/>
+	<TextEquiv>
+	<Unicode>Δ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r253">
+	<Coords points="593,532 593,521 588,511 590,451 560,450 559,469 566,481 565,535 590,536"/>
+	<TextEquiv>
+	<Unicode>Ι</Unicode></TextEquiv></Glyph>
+	<Glyph id="r255">
+	<Coords points="684,542 713,542 714,504 714,470 705,456 678,456 666,470 665,501 665,513"/>
+	<TextEquiv>
+	<Unicode>Ο</Unicode></TextEquiv></Glyph>
+	<Glyph id="r257">
+	<Coords points="720,458 720,549 785,548 803,548 804,533 798,527 799,461 799,458"/>
+	<TextEquiv>
+	<Unicode>Π</Unicode></TextEquiv></Glyph>
+	<Glyph id="r258">
+	<Coords points="803,483 807,487 806,527 806,547 870,547 871,500 872,465 872,462 803,461"/>
+	<TextEquiv>
+	<Unicode>ΟΥ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r265">
+	<Coords points="997,529 983,514 984,487 990,479 990,468 929,467 929,479 928,552 928,557 997,557"/>
+	<TextEquiv>
+	<Unicode>Κ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r268">
+	<Coords points="999,529 998,556 998,558 1006,558 1006,468 994,468 994,523"/>
+	<TextEquiv>
+	<Unicode>Ι</Unicode></TextEquiv></Glyph>
+	<Glyph id="r272">
+	<Coords points="1063,541 1056,562 1015,561 1017,472 1061,472 1061,504 1055,504 1055,531 1063,531"/>
+	<TextEquiv>
+	<Unicode>Ε</Unicode></TextEquiv></Glyph>
+	<Glyph id="r274">
+	<Coords points="1120,497 1103,497 1102,514 1118,514 1118,549 1130,549 1130,593 1107,593 1107,569 1070,570 1072,509 1072,473 1103,474 1120,475"/>
+	<TextEquiv>
+	<Unicode>Ξ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r275">
+	<Coords points="1122,538 1122,490 1129,479 1147,479 1161,500 1161,529 1146,565 1134,564 1132,549"/>
+	<TextEquiv>
+	<Unicode>Ο</Unicode></TextEquiv></Glyph>
+	<Glyph id="r276">
+	<Coords points="1228,481 1228,545 1252,544 1252,567 1158,565 1158,543 1186,481"/>
+	<TextEquiv>
+	<Unicode>Δ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r281">
+	<Coords points="1321,565 1321,486 1320,483 1235,482 1235,511 1255,511 1255,567 1320,567 1320,566"/>
+	<TextEquiv>
+	<Unicode>ΟΥ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r285">
+	<Coords points="1332,508 1388,508 1388,518 1394,524 1403,524 1411,515 1411,504 1437,504 1437,484 1332,484"/>
+	<TextEquiv>
+	<Unicode>Τ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r286">
+	<Coords points="1415,515 1405,527 1394,527 1386,518 1370,518 1370,575 1434,575 1435,556 1428,542 1423,541 1424,518 1424,515"/>
+	<TextEquiv>
+	<Unicode>ΟΥ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r293">
+	<Coords points="1528,563 1552,563 1552,580 1582,580 1582,572 1572,564 1572,497 1542,497 1542,514 1528,514"/>
+	<TextEquiv>
+	<Unicode>Α</Unicode></TextEquiv></Glyph>
+	<Glyph id="r297">
+	<Coords points="1440,494 1440,509 1447,509 1447,579 1530,579 1532,578 1532,569 1524,568 1524,509 1538,509 1538,494"/>
+	<TextEquiv>
+	<Unicode>Π</Unicode></TextEquiv></Glyph>
+	<Glyph id="r299">
+	<Coords points="282,610 275,628 274,643 288,658 288,676 293,679 292,702 292,703 222,702 223,681 223,600 282,600"/>
+	<TextEquiv>
+	<Unicode>Κ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r300">
+	<Coords points="315,649 288,649 288,625 285,616 285,597 365,597 365,641 355,643 355,701 315,701"/>
+	<TextEquiv>
+	<Unicode>ΥΡ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r305">
+	<Coords points="448,630 467,711 482,711 497,616 477,616 449,615 448,615"/>
+	<TextEquiv>
+	<Unicode>Υ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r306">
+	<Coords points="447,682 458,682 460,687 460,706 373,706 373,684 381,672 381,616 406,616 406,608 447,608"/>
+	<TextEquiv>
+	<Unicode>Δ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r307">
+	<Coords points="539,691 528,705 508,705 497,692 497,628 508,620 539,620"/>
+	<TextEquiv>
+	<Unicode>Ο</Unicode></TextEquiv></Glyph>
+	<Glyph id="r310">
+	<Coords points="612,712 612,618 543,618 542,662 542,696 539,696 539,712"/>
+	<TextEquiv>
+	<Unicode>Ν</Unicode></TextEquiv></Glyph>
+	<Glyph id="r311">
+	<Coords points="614,618 614,638 618,641 618,715 650,715 651,688 651,643 657,636 657,618 613,618"/>
+	<TextEquiv>
+	<Unicode>Υ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r312">
+	<Coords points="689,652 715,653 715,636 702,620 663,620 663,716 714,716 715,692 715,684 686,684 686,652"/>
+	<TextEquiv>
+	<Unicode>Σ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r314">
+	<Coords points="752,716 752,705 747,697 747,625 723,624 723,715 737,716"/>
+	<TextEquiv>
+	<Unicode>Ι</Unicode></TextEquiv></Glyph>
+	<Glyph id="r321">
+	<Coords points="761,628 753,633 753,643 764,643 764,702 832,702 832,657 855,657 855,628"/>
+	<TextEquiv>
+	<Unicode>ΟΥ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r328">
+	<Coords points="904,632 904,727 934,727 934,631 905,631"/>
+	<TextEquiv>
+	<Unicode>Ι</Unicode></TextEquiv></Glyph>
+	<Glyph id="r329">
+	<Coords points="1013,633 1021,649 1021,730 947,729 939,708 939,633"/>
+	<TextEquiv>
+	<Unicode>Ω</Unicode></TextEquiv></Glyph>
+	<Glyph id="r333">
+	<Coords points="1141,636 1033,636 1033,736 1066,735 1141,735"/>
+	<TextEquiv>
+	<Unicode>Μ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r336">
+	<Coords points="1149,733 1194,733 1196,712 1190,680 1208,680 1220,673 1220,637 1150,635 1149,635"/>
+	<TextEquiv>
+	<Unicode>ΑΡ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r338">
+	<Coords points="1198,704 1197,733 1221,734 1221,684 1198,685"/>
+	<TextEquiv>
+	<Unicode>Ι</Unicode></TextEquiv></Glyph>
+	<Glyph id="r347">
+	<Coords points="1298,641 1298,736 1254,734 1253,678 1253,641"/>
+	<TextEquiv>
+	<Unicode>Σ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r348">
+	<Coords points="1539,672 1540,690 1547,716 1548,736 1576,737 1575,711 1574,674 1564,652 1539,651"/>
+	<TextEquiv>
+	<Unicode>Ι</Unicode></TextEquiv></Glyph>
+	<Glyph id="r350">
+	<Coords points="1500,659 1534,659 1533,705 1542,723 1542,743 1483,741 1486,682 1466,682 1466,665 1493,665"/>
+	<TextEquiv>
+	<Unicode>Λ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r352">
+	<Coords points="1412,649 1463,649 1462,676 1462,686 1478,717 1479,738 1410,736 1411,648"/>
+	<TextEquiv>
+	<Unicode>Κ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r354">
+	<Coords points="1360,648 1360,660 1366,660 1376,733 1399,733 1399,666 1409,666 1409,645 1361,645"/>
+	<TextEquiv>
+	<Unicode>Γ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r355">
+	<Coords points="1354,647 1375,735 1313,734 1312,642 1351,642"/>
+	<TextEquiv>
+	<Unicode>Η</Unicode></TextEquiv></Glyph>
+	<Glyph id="r131">
+	<Coords points="270,881 272,824 292,824 298,812 298,784 289,777 241,778 240,803 224,802 222,880 237,881"/>
+	<TextEquiv>
+	<Unicode>ΑΡ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r132">
+	<Coords points="327,788 352,788 375,778 396,778 398,895 429,895 429,883 425,872 426,819 438,820 455,798 457,768 436,742 363,740 363,732 307,732 297,746 297,775"/>
+	<TextEquiv>
+	<Unicode>ΕΡ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r133">
+	<Coords points="370,803 369,858 375,869 393,869 394,840 394,801 370,801"/>
+	<TextEquiv>
+	<Unicode>Ι</Unicode></TextEquiv></Glyph>
+	<Glyph id="r136">
+	<Coords points="381,781 381,797 367,797 364,856 375,870 375,876 305,876 305,882 272,883 273,868 303,826 304,785 315,785 323,788 329,789 354,789 373,781"/>
+	<TextEquiv>
+	<Unicode>Χ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r137">
+	<Coords points="478,801 478,833 477,881 432,879 432,878 433,828 447,813 457,813 457,801"/>
+	<TextEquiv>
+	<Unicode>Α</Unicode></TextEquiv></Glyph>
+	<Glyph id="r138">
+	<Coords points="597,801 555,801 553,876 527,876 529,807 482,807 482,783 597,783"/>
+	<TextEquiv>
+	<Unicode>Τ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r140">
+	<Coords points="666,842 661,845 661,887 558,885 559,844 559,824 576,807 599,807 599,787 620,787 620,825 666,825"/>
+	<TextEquiv>
+	<Unicode>ΕΥ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r141">
+	<Coords points="669,881 676,891 705,891 714,878 714,820 710,797 669,797"/>
+	<TextEquiv>
+	<Unicode>Ο</Unicode></TextEquiv></Glyph>
+	<Glyph id="r144">
+	<Coords points="824,841 822,840 803,840 803,885 881,885 881,841"/>
+	<TextEquiv>
+	<Unicode>Ο</Unicode></TextEquiv></Glyph>
+	<Glyph id="r145">
+	<Coords points="787,882 796,882 796,898 750,898 745,890 717,890 717,822 715,810 715,797 787,797"/>
+	<TextEquiv>
+	<Unicode>Ν</Unicode></TextEquiv></Glyph>
+	<Glyph id="r146">
+	<Coords points="846,841 846,821 886,821 886,802 846,802 843,804 789,803 789,823 826,823 826,841"/>
+	<TextEquiv>
+	<Unicode>Τ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r149">
+	<Coords points="832,764 832,804 807,803 802,803 802,764"/>
+	<TextEquiv>
+	<Unicode>Σ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r153">
+	<Coords points="1054,825 1019,824 1017,902 988,901 991,828 938,828 939,803 1054,803"/>
+	<TextEquiv>
+	<Unicode>Τ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r156">
+	<Coords points="1494,864 1490,870 1476,870 1470,864 1461,864 1461,919 1512,919 1513,894 1513,864"/>
+	<TextEquiv>
+	<Unicode>ΟΥ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r158">
+	<Coords points="1431,820 1431,834 1468,835 1470,835 1469,862 1490,862 1491,838 1535,839 1537,839 1537,820"/>
+	<TextEquiv>
+	<Unicode>Τ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r162">
+	<Coords points="334,993 338,998 338,1067 364,1067 364,1045 365,1000 375,1000 375,960 334,960"/>
+	<TextEquiv>
+	<Unicode>Ρ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r166">
+	<Coords points="255,973 251,968 222,967 222,1075 291,1075 292,1055 282,1040 284,973"/>
+	<TextEquiv>
+	<Unicode>Κ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r167">
+	<Coords points="334,986 334,1013 329,1013 329,1073 299,1073 300,1016 300,972 328,972 328,982"/>
+	<TextEquiv>
+	<Unicode>Υ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r169">
+	<Coords points="475,1024 475,1068 444,1069 393,1069 394,998 394,965 418,964 476,964"/>
+	<TextEquiv>
+	<Unicode>Β</Unicode></TextEquiv></Glyph>
+	<Glyph id="r170">
+	<Coords points="552,971 562,981 562,1006 553,1011 543,1012 543,1065 482,1066 482,995 499,995 500,966 547,966"/>
+	<TextEquiv>
+	<Unicode>ΑΡ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r176">
+	<Coords points="623,974 622,1008 622,1073 569,1074 570,1030 571,996 572,974"/>
+	<TextEquiv>
+	<Unicode>Θ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r179">
+	<Coords points="642,976 671,975 685,975 685,1012 684,1072 631,1072 633,976"/>
+	<TextEquiv>
+	<Unicode>Ο</Unicode></TextEquiv></Glyph>
+	<Glyph id="r183">
+	<Coords points="711,977 700,1001 698,1075 755,1075 754,1044 748,1041 749,977"/>
+	<TextEquiv>
+	<Unicode>Λ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r185">
+	<Coords points="759,1024 760,980 760,977 816,977 813,1066 800,1072 761,1071 759,1072"/>
+	<TextEquiv>
+	<Unicode>Ο</Unicode></TextEquiv></Glyph>
+	<Glyph id="r188">
+	<Coords points="913,977 823,978 822,1026 820,1065 816,1068 816,1082 912,1079 913,1079"/>
+	<TextEquiv>
+	<Unicode>Μ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r190">
+	<Coords points="981,981 981,1032 989,1044 989,1073 1015,1073 1015,981"/>
+	<TextEquiv>
+	<Unicode>Ι</Unicode></TextEquiv></Glyph>
+	<Glyph id="r193">
+	<Coords points="985,1065 985,1085 924,1084 924,1004 934,989 934,978 978,977 977,1047"/>
+	<TextEquiv>
+	<Unicode>Α</Unicode></TextEquiv></Glyph>
+	<Glyph id="r195">
+	<Coords points="1094,986 1093,1016 1100,1023 1100,1069 1028,1069 1028,986"/>
+	<TextEquiv>
+	<Unicode>ΟΥ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r197">
+	<Coords points="1447,994 1447,1049 1452,1054 1452,1084 1363,1084 1364,1053 1365,1022 1366,994"/>
+	<TextEquiv>
+	<Unicode>Χ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r199">
+	<Coords points="1397,1088 1410,1088 1410,1098 1418,1098 1418,1130 1384,1131 1381,1131 1382,1103 1383,1091 1383,1089"/>
+	<TextEquiv>
+	<Unicode>Σ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r143">
+	<Coords points="625,456 625,541 679,541 679,535 662,514 662,457"/>
+	<TextEquiv>
+	<Unicode>Κ</Unicode></TextEquiv></Glyph>
+	<Glyph id="r142">
+	<Coords points="624,454 624,540 605,540 605,524 595,524 595,473 612,473 612,454"/>
+	<TextEquiv>
+	<Unicode>Α</Unicode></TextEquiv></Glyph></Word>
+	<Word id="r242">
+	<Coords points="1503,425 1597,425 1597,338 1503,338"/>
+	<TextEquiv>
+	<Unicode>Π</Unicode></TextEquiv></Word>
+	<Word id="r241">
+	<Coords points="1427,425 1501,425 1501,336 1427,336"/>
+	<TextEquiv>
+	<Unicode>ΚΙ</Unicode></TextEquiv></Word>
+	<Word id="r236">
+	<Coords points="1344,310 1344,321 1246,321 1189,319 1189,415 1218,416 1260,416 1299,417 1349,418 1384,418 1425,417 1425,353 1415,343 1415,310"/>
+	<TextEquiv>
+	<Unicode>ΟΥΤΟΣ</Unicode></TextEquiv></Word>
+	<Word id="r223">
+	<Coords points="1008,312 1165,312 1165,411 1146,410 1127,409 1091,408 1052,407 1010,406 1008,406"/>
+	<TextEquiv>
+	<Unicode>ΘΕΙΟΣ</Unicode></TextEquiv></Word>
+	<Word id="r210">
+	<Coords points="1005,404 976,403 955,403 955,311 988,312 1005,312"/>
+	<TextEquiv>
+	<Unicode>Ο</Unicode></TextEquiv></Word>
+	<Word id="r206">
+	<Coords points="675,293 704,294 746,295 909,295 909,399 860,398 822,398 780,397 732,397 715,393 614,393 614,293"/>
+	<TextEquiv>
+	<Unicode>ΙΣΤΟΡΙΘΗ</Unicode></TextEquiv></Word>
+	<Word id="r186">
+	<Coords points="525,361 522,370 522,383 609,385 609,280 585,280 525,279"/>
+	<TextEquiv>
+	<Unicode>ΚΙ</Unicode></TextEquiv></Word>
+	<Word id="r178">
+	<Coords points="522,365 522,310 508,310 509,259 477,259 402,257 402,271 303,268 303,373 367,376 419,378 469,380 517,380"/>
+	<TextEquiv>
+	<Unicode>ΗΓΕΡΗ</Unicode></TextEquiv></Word>
+	<Word id="r298">
+	<Coords points="1440,491 1440,534 1445,534 1445,584 1599,584 1599,491"/>
+	<TextEquiv>
+	<Unicode>ΠΑ</Unicode></TextEquiv></Word>
+	<Word id="r289">
+	<Coords points="1438,483 1438,508 1430,508 1429,538 1439,538 1438,580 1364,580 1364,539 1363,518 1330,517 1330,480 1437,480"/>
+	<TextEquiv>
+	<Unicode>ΤΟΥ</Unicode></TextEquiv></Word>
+	<Word id="r283">
+	<Coords points="1328,465 1328,572 1137,572 1137,594 1105,594 1105,573 1013,573 1013,465"/>
+	<TextEquiv>
+	<Unicode>ΕΞΟΔΟΥ</Unicode></TextEquiv></Word>
+	<Word id="r270">
+	<Coords points="1008,562 919,562 919,462 1008,462"/>
+	<TextEquiv>
+	<Unicode>ΚΙ</Unicode></TextEquiv></Word>
+	<Word id="r250">
+	<Coords points="363,398 371,410 372,412 433,412 433,532 210,532 210,438 222,416 316,417 316,398"/>
+	<TextEquiv>
+	<Unicode>ΘΚΟΥ</Unicode></TextEquiv></Word>
+	<Word id="r357">
+	<Coords points="1252,751 1599,751 1599,637 1252,637"/>
+	<TextEquiv>
+	<Unicode>ΣΗΓΚΛΙ</Unicode></TextEquiv></Word>
+	<Word id="r343">
+	<Coords points="1029,738 1121,738 1139,737 1225,737 1226,720 1226,638 1244,638 1266,621 1266,590 1196,590 1195,618 1195,628 1029,628"/>
+	<TextEquiv>
+	<Unicode>ΜΑΡΙ</Unicode></TextEquiv></Word>
+	<Word id="r330">
+	<Coords points="1025,729 1025,592 892,592 892,737 1017,737"/>
+	<TextEquiv>
+	<Unicode>ΙΩ</Unicode></TextEquiv></Word>
+	<Word id="r326">
+	<Coords points="371,679 375,667 375,599 458,599 458,611 865,611 865,728 548,728 543,718 443,718 443,712 371,712"/>
+	<TextEquiv>
+	<Unicode>ΔΥΟΝΥΣΙΟΥ</Unicode></TextEquiv></Word>
+	<Word id="r302">
+	<Coords points="368,660 360,660 360,706 218,706 218,590 368,590"/>
+	<TextEquiv>
+	<Unicode>ΚΥΡ</Unicode></TextEquiv></Word>
+	<Word id="r159">
+	<Coords points="1541,815 1469,815 1320,816 1212,816 1212,802 1060,802 1060,918 1454,918 1454,923 1542,923 1542,816"/>
+	<Glyph id="r160">
+	<Coords points="1065,911 1154,911 1155,860 1155,807 1065,807"/>
+	<TextEquiv>
+	<Unicode>Π</Unicode></TextEquiv></Glyph>
+	<TextEquiv>
+	<Unicode>ΠΤΟΥ</Unicode></TextEquiv></Word>
+	<Word id="r154">
+	<Coords points="1056,828 1030,827 1028,906 975,906 978,840 932,840 933,796 1056,796"/>
+	<TextEquiv>
+	<Unicode>Τ</Unicode></TextEquiv></Word>
+	<Word id="r152">
+	<Coords points="290,743 291,728 369,728 368,737 465,737 463,770 794,770 794,762 843,762 842,787 897,787 897,902 790,901 235,901 218,902 219,884 219,748 289,748"/>
+	<TextEquiv>
+	<Unicode>ΑΡΧΙΕΡΑΤΕΥΟΝΤΟΣ</Unicode></TextEquiv></Word>
+	<Word id="r198">
+	<Coords points="1361,958 1451,957 1450,966 1586,966 1585,1068 1585,1100 1542,1101 1454,1101 1454,1085 1341,1085 1341,1096 1248,1093 1225,1093 1226,959 1226,956"/>
+	<TextEquiv>
+	<Unicode>Χ</Unicode></TextEquiv></Word>
+	<Word id="r196">
+	<Coords points="1117,971 1115,1079 1115,1094 752,1094 752,1085 388,1085 388,1046 387,1007 387,955 630,955 630,966 631,971"/>
+	<TextEquiv>
+	<Unicode>ΒΑΡΘΟΛΟΜΑΙΟΥ</Unicode></TextEquiv></Word>
+	<Word id="r168">
+	<Coords points="378,957 378,1006 372,1006 372,1083 217,1083 218,1042 218,962 326,962 326,957"/>
+	<TextEquiv>
+	<Unicode>ΚΥΡ</Unicode></TextEquiv></Word>
+	<Word id="r147">
+	<Coords points="551,435 551,448 625,448 625,541 604,541 604,537 460,536 460,471 473,471 473,435"/>
+	<TextEquiv>
+	<Unicode>ΔΙΑ</Unicode></TextEquiv></Word>
+	<Word id="r150">
+	<Coords points="875,550 797,550 797,553 712,553 712,547 625,547 625,453 875,453"/>
+	<TextEquiv>
+	<Unicode>ΚΟΠΟΥ</Unicode></TextEquiv></Word></TextLine>
+	<TextLine id="r216">
+	<Coords points="1422,1088 1422,1135 1375,1135 1376,1088"/></TextLine>
+	<TextLine id="r211">
+	<Coords points="1450,1086 1349,1086 1349,1108 189,1108 190,943 675,943 675,958 1212,958 1212,941 1456,941 1480,942 1599,942 1599,1013 1598,1107 1452,1108 1454,1090"/></TextLine>
+	<TextLine id="r204">
+	<Coords points="1273,585 1184,585 1184,613 1039,611 1038,589 879,589 881,600 466,600 469,588 200,588 191,589 191,718 434,718 432,725 433,729 530,729 550,730 548,735 865,735 863,747 1009,748 1229,748 1250,747 1250,760 1597,760 1599,722 1599,630 1282,630 1283,586"/></TextLine>
+	<TextLine id="r203">
+	<Coords points="303,394 381,392 456,393 456,420 895,420 895,454 1423,454 1599,455 1599,594 1357,594 1328,595 1329,578 1140,578 1141,605 1141,603 1095,603 1094,580 874,580 874,567 191,567 195,406 300,407 300,395"/></TextLine>
+	<TextLine id="r200">
+	<Coords points="181,264 180,304 180,377 179,383 472,383 506,384 504,400 918,400 917,422 1405,422 1404,434 1599,434 1598,395 1597,347 1597,313 1599,310 1185,310 1187,299 943,299 946,285 625,285 626,264 627,257 182,257"/></TextLine>
+	<TextLine id="r222">
+	<Coords points="1126,751 1088,751 1068,752 1069,762 1068,765 881,765 863,764 851,764 852,738 479,738 478,734 385,734 385,723 199,723 193,724 193,921 1050,921 1049,927 1599,927 1599,770 1154,770 1154,752"/></TextLine></TextRegion>
+	<TextRegion id="r224" type="paragraph">
+	<Coords points="133,223 382,223 432,225 453,245 886,245 903,267 1598,267 1598,667 1597,933 1597,1142 164,1142 95,1144 113,221"/></TextRegion></Page></PcGts>

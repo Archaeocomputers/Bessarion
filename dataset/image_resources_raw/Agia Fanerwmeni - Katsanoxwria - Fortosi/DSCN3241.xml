@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2021-02-28T20:35:23</Created>
+	<LastChange>2021-02-28T20:35:23</LastChange></Metadata>
+	<Page imageFilename="DSCN3241.JPG" imageWidth="4608" imageHeight="3456">
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<TextLine id="tempLine357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<Word id="tempWord357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<Glyph id="r2">
+	<Coords points="956,592 1132,593 1128,780 1087,798 1001,798 956,770 953,593"/></Glyph>
+	<Glyph id="r4">
+	<Coords points="1307,816 1417,788 1502,951 1351,1014 1277,879"/></Glyph>
+	<Glyph id="r5">
+	<Coords points="1600,721 1480,840 1597,1020 1692,1005 1727,759 1607,717"/></Glyph>
+	<Glyph id="r6">
+	<Coords points="1065,822 954,1087 1101,1127 1227,1068 1262,835 1072,816 1068,816"/></Glyph>
+	<Glyph id="r8">
+	<Coords points="873,773 885,775 1055,818 1053,847 1030,869 992,866 930,1064 816,1055 861,862 802,849 823,765 825,763"/></Glyph>
+	<Glyph id="r9">
+	<Coords points="627,834 780,834 783,1063 579,1049"/></Glyph>
+	<Glyph id="r10">
+	<Coords points="3520,1584 3717,1584 3715,1789 3510,1785"/></Glyph>
+	<Glyph id="r14">
+	<Coords points="3911,1601 3910,1841 4139,1841 4193,1742 4189,1576 3913,1581 3910,1584"/></Glyph>
+	<Glyph id="r17">
+	<Coords points="558,1430 517,1639 695,1677 742,1455 560,1425"/></Glyph>
+	<Glyph id="r19">
+	<Coords points="269,1458 344,1462 317,1710 245,1712 230,1685 264,1459"/></Glyph>
+	<Glyph id="r20">
+	<Coords points="3082,892 3084,1040 3084,1050 3242,1054 3277,1027 3276,879 3084,878"/></Glyph></Word></TextLine></TextRegion>
+	<TextRegion id="r22" type="paragraph">
+	<Coords points="891,534 1288,531 1280,708 1782,697 1828,860 3305,845 3302,1134 3314,1382 4271,1405 4288,1931 3585,1951 120,1797 122,1488 400,1202 402,562 422,534"/></TextRegion></Page></PcGts>

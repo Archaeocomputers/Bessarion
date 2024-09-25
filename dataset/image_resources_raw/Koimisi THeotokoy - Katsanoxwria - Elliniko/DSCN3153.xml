@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2021-02-13T20:22:22</Created>
+	<LastChange>2021-02-13T20:22:22</LastChange></Metadata>
+	<Page imageFilename="DSCN3153.JPG" imageWidth="4608" imageHeight="3456">
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="75,137 3712,156 3681,3368 12,3306 37,575 37,218"/></TextRegion></Page></PcGts>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2021-01-26T11:14:14</Created>
+	<LastChange>2021-01-26T11:14:14</LastChange></Metadata>
+	<Page imageFilename="Ktitoriki Gennesio Thotokou Koritiani.JPG" imageWidth="4608" imageHeight="3456">
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="593,1135 583,1445 1845,1461 3735,1403 3716,1045 2119,1083 848,1093 600,1129"/>
+	<TextLine id="r2">
+	<Coords points="632,1164 641,1235 1816,1238 3135,1206 3693,1206 3683,1070 2967,1090 1487,1106 800,1106 635,1154"/></TextLine>
+	<TextLine id="r3">
+	<Coords points="635,1287 648,1406 2416,1377 3709,1351 3661,1229 2296,1232 1035,1261 625,1277"/></TextLine></TextRegion></Page></PcGts>

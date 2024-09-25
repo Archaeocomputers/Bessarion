@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2021-02-28T20:26:12</Created>
+	<LastChange>2021-02-28T20:26:12</LastChange></Metadata>
+	<Page imageFilename="DSCN3240.JPG" imageWidth="4608" imageHeight="3456">
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<TextLine id="tempLine357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<Word id="tempWord357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<Glyph id="r1">
+	<Coords points="1403,798 1585,803 1590,993 1589,1007 1426,1004 1380,884 1382,800"/></Glyph>
+	<Glyph id="r5">
+	<Coords points="1782,1027 1780,1200 1943,1210 1978,1109 1936,1017 1784,1014"/></Glyph>
+	<Glyph id="r6">
+	<Coords points="1100,1036 1264,1043 1271,1296 1062,1288 1059,1036"/></Glyph>
+	<Glyph id="r7">
+	<Coords points="1275,991 1378,992 1401,992 1414,1016 1524,1019 1519,1084 1427,1087 1398,1290 1292,1284 1315,1069 1289,1064"/></Glyph>
+	<Glyph id="r8">
+	<Coords points="1532,1035 1515,1157 1481,1155 1475,1331 1649,1341 1653,1339 1733,1250 1741,1035 1539,1016 1535,1018"/></Glyph>
+	<Glyph id="r9">
+	<Coords points="1999,970 2116,912 2237,1046 2222,1184 2221,1201 2048,1204 1992,1047"/></Glyph>
+	<Glyph id="r10">
+	<Coords points="3526,1096 3660,1328 3853,1247 3704,1005"/></Glyph>
+	<Glyph id="r11">
+	<Coords points="739,1679 905,1681 898,1998 736,1989"/></Glyph>
+	<Glyph id="r12">
+	<Coords points="1072,1658 1301,1655 1291,1920 1081,1925 1044,1929 1051,1658"/></Glyph>
+	<Glyph id="r14">
+	<Coords points="4084,1793 4301,1793 4310,1994 4091,1993"/></Glyph></Word></TextLine></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="1262,675 2396,690 2518,1031 3862,881 4607,1596 4606,2121 4109,2096 606,2134 590,693 593,653"/></TextRegion></Page></PcGts>

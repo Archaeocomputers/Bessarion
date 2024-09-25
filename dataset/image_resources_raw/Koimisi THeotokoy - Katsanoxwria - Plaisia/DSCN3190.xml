@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2021-02-28T21:31:23</Created>
+	<LastChange>2021-02-28T21:31:23</LastChange></Metadata>
+	<Page imageFilename="DSCN3190.JPG" imageWidth="4608" imageHeight="3456">
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<TextLine id="tempLine357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<Word id="tempWord357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<Glyph id="r1">
+	<Coords points="1602,1403 1599,1573 1477,1575 1477,1403"/></Glyph>
+	<Glyph id="r2">
+	<Coords points="1653,1397 1765,1397 1764,1588 1636,1585 1638,1398 1640,1398"/></Glyph>
+	<Glyph id="r3">
+	<Coords points="1803,1406 1895,1408 1893,1568 1792,1567 1794,1406"/></Glyph>
+	<Glyph id="r4">
+	<Coords points="1997,1450 2114,1452 2114,1588 1950,1585 1958,1450"/></Glyph>
+	<Glyph id="r5">
+	<Coords points="3153,1909 3150,2059 3048,2058 3051,1909"/></Glyph>
+	<Glyph id="r6">
+	<Coords points="3048,1931 3044,2057 2952,2053 2945,2053 2948,1908 3048,1911"/></Glyph>
+	<Glyph id="r7">
+	<Coords points="1310,1613 1257,1822 1402,1828 1453,1612"/></Glyph>
+	<Glyph id="r8">
+	<Coords points="1836,1641 1836,1818 1962,1818 1963,1637"/></Glyph>
+	<Glyph id="r9">
+	<Coords points="3269,1688 3343,1686 3397,1858 3240,1850"/></Glyph>
+	<Glyph id="r15">
+	<Coords points="3253,1926 3330,1925 3326,2076 3229,2077 3238,1927"/></Glyph>
+	<Glyph id="r17">
+	<Coords points="2442,1438 2544,1438 2531,1622 2411,1616 2427,1440"/></Glyph></Word></TextLine></TextRegion>
+	<TextRegion id="r16" type="paragraph">
+	<Coords points="2059,800 1781,948 1211,1312 959,1598 859,1892 814,2274 898,2274 1214,2270 1650,2268 2044,2264 2535,2270 3003,2281 3481,2283 3451,1983 3340,1620 3188,1355 2927,1161 2561,990 2229,853 2087,796"/></TextRegion></Page></PcGts>

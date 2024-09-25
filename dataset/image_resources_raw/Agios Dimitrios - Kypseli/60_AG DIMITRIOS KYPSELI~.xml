@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2021-02-28T13:41:08</Created>
+	<LastChange>2021-02-28T13:41:08</LastChange></Metadata>
+	<Page imageFilename="60_AG DIMITRIOS KYPSELI.jpg" imageWidth="3264" imageHeight="2448">
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="986,1523 2536,1567 2446,1886 1009,1858"/>
+	<TextLine id="r2">
+	<Coords points="1053,1544 2420,1587 2424,1853 1063,1823"/>
+	<Word id="r3">
+	<Coords points="1093,1553 1513,1560 1595,1803 1086,1804"/>
+	<Glyph id="r5">
+	<Coords points="1121,1596 1224,1596 1236,1770 1108,1777"/></Glyph>
+	<Glyph id="r6">
+	<Coords points="1258,1598 1383,1603 1385,1761 1246,1764"/></Glyph>
+	<Glyph id="r7">
+	<Coords points="1428,1605 1499,1607 1556,1774 1402,1766"/></Glyph></Word>
+	<Word id="r4">
+	<Coords points="2109,1590 2380,1603 2406,1643 2409,1835 2118,1816"/>
+	<Glyph id="r8">
+	<Coords points="2143,1627 2204,1627 2193,1693 2206,1791 2134,1785"/></Glyph>
+	<Glyph id="r10">
+	<Coords points="2218,1636 2273,1638 2270,1803 2223,1804"/></Glyph>
+	<Glyph id="r11">
+	<Coords points="2298,1644 2391,1649 2395,1810 2288,1806 2291,1695"/></Glyph></Word></TextLine></TextRegion></Page></PcGts>

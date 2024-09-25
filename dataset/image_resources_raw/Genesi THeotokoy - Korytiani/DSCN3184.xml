@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2021-01-26T11:16:04</Created>
+	<LastChange>2021-01-26T11:17:01</LastChange></Metadata>
+	<Page imageFilename="DSCN3184.JPG" imageWidth="4608" imageHeight="3456">
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="12,693 22,1358 2283,1593 4193,1858 4148,1422 2029,1022 783,748 3,693"/>
+	<TextLine id="r2">
+	<Coords points="70,725 64,748 64,922 829,1054 2229,1325 4158,1616 4116,1432 2193,1077 858,800 87,719"/>
+	<Word id="r4">
+	<Coords points="2488,1148 2500,1354 2710,1388 2684,1170 2484,1138"/></Word></TextLine>
+	<TextLine id="r3">
+	<Coords points="29,1309 2319,1580 4167,1825 4141,1619 2938,1448 677,1061 29,974"/></TextLine></TextRegion></Page></PcGts>

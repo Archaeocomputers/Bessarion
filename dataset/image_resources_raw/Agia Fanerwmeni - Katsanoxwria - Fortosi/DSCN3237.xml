@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PcGts xmlns="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15 http://schema.primaresearch.org/PAGE/gts/pagecontent/2013-07-15/pagecontent.xsd">
+	<Metadata>
+	<Creator></Creator>
+	<Created>2021-01-29T20:09:48</Created>
+	<LastChange>2021-01-29T20:09:48</LastChange></Metadata>
+	<Page imageFilename="DSCN3237.JPG" imageWidth="4608" imageHeight="3456">
+	<TextRegion id="r1" type="paragraph">
+	<Coords points="1366,153 1366,170 3586,183 3673,1303 1286,1306"/>
+	<TextLine id="r2">
+	<Coords points="1493,300 3373,326 3326,706 1516,730"/></TextLine>
+	<TextLine id="r3">
+	<Coords points="3153,870 3600,843 3576,1100 3180,1106"/></TextLine></TextRegion>
+	<TextRegion id="tempReg357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<TextLine id="tempLine357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<Word id="tempWord357564684568544579089">
+	<Coords points="0,0 1,0 1,1 0,1"/>
+	<Glyph id="r4">
+	<Coords points="1649,531 1739,538 1735,678 1614,655"/></Glyph>
+	<Glyph id="r5">
+	<Coords points="1762,500 1885,521 1812,673 1747,660"/></Glyph>
+	<Glyph id="r6">
+	<Coords points="1790,404 1939,410 1941,412 1898,509 1846,511 1803,462"/></Glyph>
+	<Glyph id="r7">
+	<Coords points="1911,519 1979,524 1961,695 1843,678 1874,557 1893,524"/></Glyph>
+	<Glyph id="r8">
+	<Coords points="2016,510 2093,513 2094,515 2110,570 2111,576 2092,621 2014,614 2014,612 2002,556"/></Glyph>
+	<Glyph id="r9">
+	<Coords points="2168,461 2242,467 2243,468 2232,605 2231,607 2178,618 2132,593 2125,504"/></Glyph>
+	<Glyph id="r10">
+	<Coords points="2968,502 3088,498 3090,500 3088,641 2954,632"/></Glyph>
+	<Glyph id="r12">
+	<Coords points="3225,894 3338,900 3339,902 3336,992 3224,991 3217,926"/></Glyph>
+	<Glyph id="r13">
+	<Coords points="3431,883 3564,884 3568,894 3544,1006 3446,1011 3412,924"/></Glyph></Word></TextLine></TextRegion></Page></PcGts>
